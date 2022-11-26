@@ -8,9 +8,9 @@ if  ( n % 2 == 0)
 {
     Console.WriteLine("{0} Число чётное" , n);
 }
-else //( n % 2 == 1)
+else 
 {
     Console.WriteLine("{0} Число нечётное" , n);
 }
 
-//Console.WriteLine( " {0} Число чётное " , n);
+
